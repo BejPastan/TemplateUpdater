@@ -1,0 +1,11 @@
+{
+	"id": "Tamplete Updater",
+	"name": "Tamplete Updater",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Update properties in files that are using templates",
+	"author": "Obsidian",
+	"authorUrl": "BejPastan",
+	"fundingUrl": "None",
+	"isDesktopOnly": true
+}
